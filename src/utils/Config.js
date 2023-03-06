@@ -1,0 +1,1 @@
+export const product_list='ttps://dummyjson.com/products';
